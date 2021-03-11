@@ -1,7 +1,7 @@
 class Box extends BaseClass {
   constructor(x, y, width, height) {
     super (x,y, width , height)
-    this.image = loadImage("sprites/box.jpg")
+    this.image = loadImage("box.jpg")
     
   }
   }
