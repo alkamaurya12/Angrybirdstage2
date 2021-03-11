@@ -3,7 +3,7 @@ class Log extends BaseClass {
      
      super(x, y, 20, height, angle);
       
-         this.image = loadImage ("sprites/log.jpg")
+         this.image = loadImage ("log.jpg")
          Matter.Body.setAngle(this.body, angle);
     }
     
