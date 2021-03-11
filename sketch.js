@@ -5,7 +5,7 @@ const Bodies = Matter.Bodies;
 var box1,box2, pig1, bird;
 var backgroundImg ;
 function preload() {
-    backgroundImg = loadImage ("sprites/background.jpg")
+    backgroundImg = loadImage ("background.jpg")
 }
 
 function setup(){
